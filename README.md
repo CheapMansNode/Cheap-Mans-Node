@@ -62,7 +62,7 @@ Hardware to buy:
 | AETHER 15W 3A UPS              | 1  |[AliExpress](https://www.aliexpress.com/item/1005002982442200.html) |
 | 18650 Batteries                | 2  |[AliExpress 1](https://www.aliexpress.com/item/1005005363854781.html) or [AliExpress 2](https://www.aliexpress.com/item/1005005769176713.html) |
 | USB 3.0 Extension Cable S3A-S4B 10cm | 1  |[AliExpress](https://www.aliexpress.com/item/1005003527380361.html) |
-| GeekPi Aluminum Case for Raspberry Pi 4 (No-FAN) | 1  |[AliExpress](https://www.aliexpress.com/item/4001365568030.html) or [PiHut](https://thepihut.com/products/aluminium-armour-heatsink-case-for-raspberry-pi-4)
+| Aluminum Case for RPi 4 (No-FAN) | 1  |[AliExpress](https://www.aliexpress.com/item/4001365568030.html) or [PiHut](https://thepihut.com/products/aluminium-armour-heatsink-case-for-raspberry-pi-4)
 | Dupont Wires M-F               | 1  |[AliExpress](https://www.aliexpress.com/item/3256805759353801.html) |
 | Heat shrink tube kit           | 1  |[AliExpress](https://www.aliexpress.com/item/4000971878875.html) |
 | 20 AWG Wires or lower          | 1  |Use what you have at home |
