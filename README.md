@@ -207,8 +207,7 @@ By using a well-engineered cooling system that effectively cools down the main R
 A standard plate of 220x220 will allow you to print all the components, except 10_Enclosure, in one session.
 
 ## Contact
-You can reach out on Telegram, [Twitter]() and [Nostr]() or join the Telegram Group.
-You can also contact me at: protonmail.com
+You can reach out on [Twitter](https://twitter.com/CheapMansNode) and [Nostr](), or contact me at: cheapmansnode at protonmail dot com
 
 ## License
 
