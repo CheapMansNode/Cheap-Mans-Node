@@ -19,6 +19,13 @@ Alternately in the near future a pre-assembled version will be available for pur
 ## Table of Contents
 
 - [Feature Overview](#feature-overview)
+- [Hardware](#hardware)
+- [3D Printing](#3d-printing)
+- [Soldering](#soldering)
+- [Assembly](#assembly)
+- [FAQ](#faq)
+- [Contact](#contact)
+- [License](#license)
 
 
 ## Feature Overview
