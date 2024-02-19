@@ -96,20 +96,20 @@ Part specific details:
 
 | Part File | Additional Instructions | Count | Photo |
 |-----------|-------------------------|-------|-------|
-| [1_top_A](STL%20Files/1_top_A.stl) OR [1_top_B](STL%20Files/1_top_B.stl) <br>See [HERE](Pics/top_a_or_b.jpg) which one to print | Infill: 40% / Solid infill threshold area: 30mm² / Setting for Height ranges: Start at height: 2.4, Stop at height: 100, Layer height: 0.12mm, Perimeters: 3 | 1 | ![A](Pics/3dprinting/3dprinting-part-01.png) |
+| [1_top_A](STL%20Files/1_top_A.stl) OR [1_top_B](STL%20Files/1_top_B.stl) <br>See [HERE](Pics/top_a_or_b.jpg) which one to print | Infill: 40% <br>Solid infill threshold area: 30mm² <br>Setting for Height ranges: Start at height: 2.4, Stop at height: 100, Layer height: 0.12mm, Perimeters: 3 | 1 | ![A](Pics/3dprinting/3dprinting-part-01.png) |
 | [2_disk_usb_top](STL%20Files/2_disk_usb_top.stl) AND [2_disk_usb_bottom](STL%20Files/2_disk_usb_bottom.stl)  |  | 2 | ![B](Pics/3dprinting/3dprinting-part-02.png) |
 | [3_disk_usb_holder](STL%20Files/3_disk_usb_holder.stl) | Perimeters: 3 | 1 | ![C](Pics/3dprinting/3dprinting-part-03.png) |
 | [4_rpi_holder_body](STL%20Files/4_rpi_holder_body.stl) | Detect thin walls: Off | 1 | ![D](Pics/3dprinting/3dprinting-part-04.png) |
 | [5_ups_base](STL%20Files/5_ups_base.stl) | Detect thin walls: Off | 1 | ![D](Pics/3dprinting/3dprinting-part-05.png) |
 | [6_front_holder](STL%20Files/6_front_holder.stl) | Detect thin walls: Off | 1 | ![D](Pics/3dprinting/3dprinting-part-06.png) |
-| [7_locking](STL%20Files/7_locking.stl) | Solid infill threshold area: 8mm² / Detect thin walls: Off | 1 | ![D](Pics/3dprinting/3dprinting-part-07.png) |
+| [7_locking](STL%20Files/7_locking.stl) | Solid infill threshold area: 8mm² <br>Detect thin walls: Off | 1 | ![D](Pics/3dprinting/3dprinting-part-07.png) |
 | [8_ups_box](STL%20Files/8_ups_box.stl) |  | 1 | ![D](Pics/3dprinting/3dprinting-part-08.png) |
-| [9_ups_cable_holder](STL%20Files/9_ups_cable_holder.stl) | Perimeters: 3 / Detect thin walls: Off | 1 | ![D](Pics/3dprinting/3dprinting-part-09.png) |
-| [10_enclosure](STL%20Files/10_enclosure.stl) | Fill density: 20% / Layer height: 0.2mm / Detect thin walls: Off | 1 | ![D](Pics/3dprinting/3dprinting-part-10.png) |
-| [11_back_holder](STL%20Files/11_back_holder.stl) |  | 1 | ![D](Pics/3dprinting/3dprinting-part-11.png) ||
-| [12_part_holder](STL%20Files/12_part_holder.stl) | Fill density: 50% / Variable layer height: On (manually reduce the height down to 0.08mm in the lower parts of the sliding rails to avoid Overhanging perimeters that would otherwise hinder the drawer movement) | 1 | ![D](Pics/3dprinting/3dprinting-part-12.png) |
-| [13_box_foot](STL%20Files/13_box_foot.stl) | Material: TPU / Print Speed must be significantly decreased to print in this material | 4 | ![D](Pics/3dprinting/3dprinting-part-13.png) |
-| [14_usb_cover](STL%20Files/14_usb_cover.stl) | Perimeters: 4 / Detect thin walls: Off / Variable layer height: On (manually reduce the height down to 0.08mm near the top and bottom to avoid Overhanging perimeters that would otherwise impact the cosmetic function of the part) | 1 | ![D](Pics/3dprinting/3dprinting-part-14.png) |
+| [9_ups_cable_holder](STL%20Files/9_ups_cable_holder.stl) | Perimeters: 3 <br>Detect thin walls: Off | 1 | ![D](Pics/3dprinting/3dprinting-part-09.png) |
+| [10_enclosure](STL%20Files/10_enclosure.stl) | Fill density: 20% <br>Layer height: 0.2mm <br>Detect thin walls: Off | 1 | ![D](Pics/3dprinting/3dprinting-part-10.png) |
+| [11_back_holder](STL%20Files/11_back_holder.stl) |  | 1 | ![D](Pics/3dprinting/3dprinting-part-11.png) |
+| [12_part_holder](STL%20Files/12_part_holder.stl) | Fill density: 50% <br>Variable layer height: On (manually reduce the height down to 0.08mm in the lower parts of the sliding rails to avoid Overhanging perimeters that would otherwise hinder the drawer movement) | 1 | ![D](Pics/3dprinting/3dprinting-part-12.png) |
+| [13_box_foot](STL%20Files/13_box_foot.stl) | Material: TPU <br>Print Speed must be significantly decreased to print in this material | 4 | ![D](Pics/3dprinting/3dprinting-part-13.png) |
+| [14_usb_cover](STL%20Files/14_usb_cover.stl) | Perimeters: 4 <br>Detect thin walls: Off <br>Variable layer height: On (manually reduce the height down to 0.08mm near the top and bottom to avoid Overhanging perimeters that would otherwise impact the cosmetic function of the part) | 1 | ![D](Pics/3dprinting/3dprinting-part-14.png) |
 
 
 
