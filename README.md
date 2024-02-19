@@ -94,22 +94,22 @@ Petg is the recommended filament as it withstand the heat better than Pla and wa
 
 Part specific details:
 
-| Part Name | Additional Instructions | Count | Photo | Link to STL |
-|-----------|-------------------------|-------|-------|-------------|
-| Top | Infill: 40% / Solid infill threshold area: 30mm² / Setting for Height ranges: Start at height: 2.4, Stop at height: 100, Layer height: 0.12mm, Perimeters: 3 | 1 | ![A](Pics/3dprinting/3dprinting-part-01.png) | [1_top]() |
-| Disk usb top and bottom |  | 2 | ![B](Pics/3dprinting/3dprinting-part-02.png) | [2_disk_usb_t_b]() |
-| Disk usb holder | Perimeters: 3 | 1 | ![C](Pics/3dprinting/3dprinting-part-03.png) | [3_disk_usb_holder]() |
-| Rpi holder body | Detect thin walls: Off | 1 | ![D](Pics/3dprinting/3dprinting-part-04.png) | [4_rpi_holder_body]() |
-| Ups base | Detect thin walls: Off | 1 | ![D](Pics/3dprinting/3dprinting-part-05.png) | [5_ups_base]() |
-| Front holder | Detect thin walls: Off | 1 | ![D](Pics/3dprinting/3dprinting-part-06.png) | [6_front_holder]() |
-| Locking | Solid infill threshold area: 8mm² / Detect thin walls: Off | 1 | ![D](Pics/3dprinting/3dprinting-part-07.png) | [7_locking]() |
-| Ups box |  | 1 | ![D](Pics/3dprinting/3dprinting-part-08.png) | [8_ups_box]() |
-| Ups cable holder | Perimeters: 3 / Detect thin walls: Off | 1 | ![D](Pics/3dprinting/3dprinting-part-09.png) | [9_ups_cable_holder]() |
-| Enclosure | Fill density: 20% / Layer height: 0.2mm / Detect thin walls: Off | 1 | ![D](Pics/3dprinting/3dprinting-part-10.png) | [10_enclosure]() |
-| Back holder |  | 1 | ![D](Pics/3dprinting/3dprinting-part-11.png) | [11_back_holder]() |
-| Part holder | Fill density: 50% / Variable layer height: On (manually reduce the height down to 0.08mm in the lower parts of the sliding rails to avoid Overhanging perimeters that would otherwise hinder the drawer movement) | 1 | ![D](Pics/3dprinting/3dprinting-part-12.png) | [12_part_holder]() |
-| Box foot | Material: TPU / Print Speed must be significantly decreased to print in this material | 4 | ![D](Pics/3dprinting/3dprinting-part-13.png) | [13_box_foot]() |
-| Usb cover | Perimeters: 4 / Detect thin walls: Off / Variable layer height: On (manually reduce the height down to 0.08mm near the top and bottom to avoid Overhanging perimeters that would otherwise impact the cosmetic function of the part) | 1 | ![D](Pics/3dprinting/3dprinting-part-14.png) | [14_usb_cover]() |
+| Part File | Additional Instructions | Count | Photo |
+|-----------|-------------------------|-------|-------|
+| [1_top_A](STL%20Files/1_top_A.stl) or [1_top_B](STL%20Files/1_top_B.stl) | Infill: 40% / Solid infill threshold area: 30mm² / Setting for Height ranges: Start at height: 2.4, Stop at height: 100, Layer height: 0.12mm, Perimeters: 3 | 1 | ![A](Pics/3dprinting/3dprinting-part-01.png) |
+| [2_disk_usb_top](STL%20Files/2_disk_usb_top.stl) and [2_disk_usb_bottom](STL%20Files/2_disk_usb_bottom.stl)  |  | 2 | ![B](Pics/3dprinting/3dprinting-part-02.png) |
+| [3_disk_usb_holder]() | Perimeters: 3 | 1 | ![C](Pics/3dprinting/3dprinting-part-03.png) |
+| [4_rpi_holder_body]() | Detect thin walls: Off | 1 | ![D](Pics/3dprinting/3dprinting-part-04.png) |
+| [5_ups_base]() | Detect thin walls: Off | 1 | ![D](Pics/3dprinting/3dprinting-part-05.png) |
+| [6_front_holder]() | Detect thin walls: Off | 1 | ![D](Pics/3dprinting/3dprinting-part-06.png) |
+| [7_locking]() | Solid infill threshold area: 8mm² / Detect thin walls: Off | 1 | ![D](Pics/3dprinting/3dprinting-part-07.png) |
+| [8_ups_box]() |  | 1 | ![D](Pics/3dprinting/3dprinting-part-08.png) |
+| [9_ups_cable_holder]() | Perimeters: 3 / Detect thin walls: Off | 1 | ![D](Pics/3dprinting/3dprinting-part-09.png) |
+| [10_enclosure]() | Fill density: 20% / Layer height: 0.2mm / Detect thin walls: Off | 1 | ![D](Pics/3dprinting/3dprinting-part-10.png) |
+| [11_back_holder]() |  | 1 | ![D](Pics/3dprinting/3dprinting-part-11.png) ||
+| [12_part_holder]() | Fill density: 50% / Variable layer height: On (manually reduce the height down to 0.08mm in the lower parts of the sliding rails to avoid Overhanging perimeters that would otherwise hinder the drawer movement) | 1 | ![D](Pics/3dprinting/3dprinting-part-12.png) |
+| [13_box_foot]() | Material: TPU / Print Speed must be significantly decreased to print in this material | 4 | ![D](Pics/3dprinting/3dprinting-part-13.png) |
+| [14_usb_cover]() | Perimeters: 4 / Detect thin walls: Off / Variable layer height: On (manually reduce the height down to 0.08mm near the top and bottom to avoid Overhanging perimeters that would otherwise impact the cosmetic function of the part) | 1 | ![D](Pics/3dprinting/3dprinting-part-14.png) |
 
 
 
