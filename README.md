@@ -96,7 +96,7 @@ Part specific details:
 
 | Part File | Additional Instructions | Count | Photo |
 |-----------|-------------------------|-------|-------|
-| [1_top_A](STL%20Files/1_top_A.stl) OR [1_top_B](STL%20Files/1_top_B.stl) <br>See [HERE](Pics/top_a_or_b.jpg) which one to print | Infill: 40% <br>Solid infill threshold area: 30mm² <br>Setting for Height ranges: Start at height: 2.4, Stop at height: 100, Layer height: 0.12mm, Perimeters: 3 | 1 | ![A](Pics/3dprinting/3dprinting-part-01.png) |
+| [1_top_A](STL%20Files/1_top_A.stl) OR [1_top_B](STL%20Files/1_top_B.stl) <br>More details [HERE](Pics/top_a_or_b.jpg) | Infill: 40% <br>Solid infill threshold area: 30mm² <br>Setting for Height ranges: Start at height: 2.4, Stop at height: 100, Layer height: 0.12mm, Perimeters: 3 | 1 | ![A](Pics/3dprinting/3dprinting-part-01.png) |
 | [2_disk_usb_top](STL%20Files/2_disk_usb_top.stl) AND [2_disk_usb_bottom](STL%20Files/2_disk_usb_bottom.stl)  |  | 2 | ![B](Pics/3dprinting/3dprinting-part-02.png) |
 | [3_disk_usb_holder](STL%20Files/3_disk_usb_holder.stl) | Perimeters: 3 | 1 | ![C](Pics/3dprinting/3dprinting-part-03.png) |
 | [4_rpi_holder_body](STL%20Files/4_rpi_holder_body.stl) | Detect thin walls: Off | 1 | ![D](Pics/3dprinting/3dprinting-part-04.png) |
