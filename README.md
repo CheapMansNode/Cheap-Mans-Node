@@ -178,7 +178,7 @@ Part specific details:
 
 ## Assembly
 
-Will be available shortly
+Will be available shortly.
 
 
 ## FAQ
