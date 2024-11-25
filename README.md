@@ -180,6 +180,10 @@ Part specific details:
 
 Will be available shortly.
 
+<p float="left">
+  <img src="Pics/Assembly/assembly-01.jpg" width="50%" />
+  <img src="Pics/Assembly/assembly-02.jpg" width="50%" />
+</p>
 
 
 01 - Cut the M-JST connector wires to reach a length of 55mm
