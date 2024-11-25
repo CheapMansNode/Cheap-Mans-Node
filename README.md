@@ -279,8 +279,8 @@ Part specific details:
 
 17 - Solder the USB-F Red and Black wires to the UPS board as depicted, again making sure that the USB-F orientation is correct
 <p float="left">
-  <img src="Pics/Assembly/assembly-35.jpg" width="49.5%" />
   <img src="Pics/Assembly/assembly-34.jpg" width="49.5%" />
+  <img src="Pics/Assembly/assembly-35.jpg" width="49.5%" />
 </p>
 
 18 - Solder the USB-F Red and Black wires to the UPS board as depicted, again making sure that the USB-F orientation is correct
