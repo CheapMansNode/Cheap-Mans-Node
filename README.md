@@ -217,34 +217,34 @@ Part specific details:
 <p float="left">
   <img src="Pics/Assembly/assembly-12.jpg" width="49.5%" />
   <img src="Pics/Assembly/assembly-13.jpg" width="49.5%" />
+</p>
+
+08 - Cut the Red wire of the Digital Voltmeter to reach a length of 50mm
+<p float="left">
   <img src="Pics/Assembly/assembly-14.jpg" width="49.5%" />
   <img src="Pics/Assembly/assembly-15.jpg" width="49.5%" />
 </p>
 
-08 - Cut the Black wire of the Digital Voltmeter to reach a length of 100mm
+09 - Cut the Black wire of the Digital Voltmeter to reach a length of 100mm
 <p float="left">
   <img src="Pics/Assembly/assembly-16.jpg" width="49.5%" />
   <img src="Pics/Assembly/assembly-17.jpg" width="49.5%" />
 </p>
 
-09 - Solder the 60mm Black M-Dupont connector wire and the 50mm Red F-Dupont connector wire to the Mini Push Button, apply Heat Shrink Tube
+10 - Solder the 60mm Black M-Dupont connector wire and the 50mm Red F-Dupont connector wire to the Mini Push Button, apply Heat Shrink Tube
 <p float="left">
   <img src="Pics/Assembly/assembly-18.jpg" width="49.5%" />
 </p>
 
-10 - Solder the 60mm Red M-Dupont connector wire to the Digital Voltmeter Red wire, apply Heat Shrink Tube
+11 - Solder the 60mm Red M-Dupont connector wire to the Digital Voltmeter Red wire, apply Heat Shrink Tube
 <p float="left">
   <img src="Pics/Assembly/assembly-19.jpg" width="49.5%" />
   <img src="Pics/Assembly/assembly-20.jpg" width="49.5%" />
 </p>
 
-11 - Solder the 85mm Red F-Dupont connector wire to the M-JST connector Red wire, apply Heat Shrink Tube
+12 - Solder the 85mm Red F-Dupont connector wire to the M-JST connector Red wire, apply Heat Shrink Tube
 <p float="left">
   <img src="Pics/Assembly/assembly-21.jpg" width="49.5%" />
-</p>
-
-12 - Solder the M-JST connector Black wire to the Digital Voltmeter Black wire, apply Heat Shrink Tube
-<p float="left">
   <img src="Pics/Assembly/assembly-22.jpg" width="49.5%" />
 </p>
 
