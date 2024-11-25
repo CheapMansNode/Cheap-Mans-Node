@@ -251,6 +251,8 @@ Part specific details:
 13 - Insert the Dupont connectors as depicted
 <p float="left">
   <img src="Pics/Assembly/assembly-23.jpg" width="49.5%" />
+</p>
+<p float="left">
   <img src="Pics/Assembly/assembly-24.jpg" width="49.5%" />
   <img src="Pics/Assembly/assembly-25.jpg" width="49.5%" />
 </p>
@@ -273,23 +275,27 @@ Part specific details:
 <p float="left">
   <img src="Pics/Assembly/assembly-32.jpg" width="49.5%" />
   <img src="Pics/Assembly/assembly-33.jpg" width="49.5%" />
-  <img src="Pics/Assembly/assembly-34.jpg" width="49.5%" />
 </p>
 
 17 - Solder the USB-F Red and Black wires to the UPS board as depicted, again making sure that the USB-F orientation is correct
 <p float="left">
   <img src="Pics/Assembly/assembly-35.jpg" width="49.5%" />
+  <img src="Pics/Assembly/assembly-34.jpg" width="49.5%" />
+</p>
+
+18 - Solder the USB-F Red and Black wires to the UPS board as depicted, again making sure that the USB-F orientation is correct
+<p float="left">
   <img src="Pics/Assembly/assembly-36.jpg" width="49.5%" />
   <img src="Pics/Assembly/assembly-37.jpg" width="49.5%" />
 </p>
 
-18 - Solder the USB-F Red and Black wires to the UPS board as depicted, again making sure that the USB-F orientation is correct
+19 - Solder the USB-F Red and Black wires to the UPS board as depicted, again making sure that the USB-F orientation is correct
 <p float="left">
   <img src="Pics/Assembly/assembly-38.jpg" width="49.5%" />
   <img src="Pics/Assembly/assembly-39.jpg" width="49.5%" />
 </p>
 
-19 - Solder the USB-F Red and Black wires to the UPS board as depicted, again making sure that the USB-F orientation is correct
+20 - Solder the USB-F Red and Black wires to the UPS board as depicted, again making sure that the USB-F orientation is correct
 <p float="left">
   <img src="Pics/Assembly/assembly-40.jpg" width="49.5%" />
 </p>
