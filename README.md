@@ -178,91 +178,121 @@ Part specific details:
 
 ## Assembly
 
-Will be available shortly.
-
+01 - Cut the M-JST connector wires to reach a length of 55mm
 <p float="left">
-  <img src="Pics/Assembly/assembly-01.jpg" width="50%" />
-  <img src="Pics/Assembly/assembly-02.jpg" width="50%" />
+  <img src="Pics/Assembly/assembly-01.jpg" width="49.5%" />
+  <img src="Pics/Assembly/assembly-02.jpg" width="49.5%" />
 </p>
 
-
-01 - Cut the M-JST connector wires to reach a length of 55mm
-![cmn](Pics/Assembly/assembly-01.jpg)
-![cmn](Pics/Assembly/assembly-02.jpg)
-
 02 - Leave the F-JST connector wires at the length of 105mm (if longer, cut it down to 105mm)
-![cmn](Pics/Assembly/assembly-03.jpg)
-![cmn](Pics/Assembly/assembly-04.jpg)
+<p float="left">
+  <img src="Pics/Assembly/assembly-03.jpg" width="49.5%" />
+  <img src="Pics/Assembly/assembly-04.jpg" width="49.5%" />
+</p>
 
 03 - Solder the Red and Black wires to the USB-F*, apply Heat Shrink Tube then cut the wires to reach a length of 100mm
-![cmn](Pics/Assembly/assembly-05.jpg)
+<p float="left">
+  <img src="Pics/Assembly/assembly-05.jpg" width="49.5%" />
+</p>
 
 04 - Cut the Red and Black M-Dupont connector wires to reach a length of 60mm
-![cmn](Pics/Assembly/assembly-06.jpg)
-![cmn](Pics/Assembly/assembly-07.jpg)
-
+<p float="left">
+  <img src="Pics/Assembly/assembly-06.jpg" width="49.5%" />
+  <img src="Pics/Assembly/assembly-07.jpg" width="49.5%" />
+</p>
+  
 05 - Cut the Red F-Dupont connector wire to reach a length of 50mm
-![cmn](Pics/Assembly/assembly-08.jpg)
-![cmn](Pics/Assembly/assembly-09.jpg)
+<p float="left">
+  <img src="Pics/Assembly/assembly-08.jpg" width="49.5%" />
+  <img src="Pics/Assembly/assembly-09.jpg" width="49.5%" />
+</p>
 
 06 - Cut another Red F-Dupont connector wire to reach a length of 85mm
-![cmn](Pics/Assembly/assembly-10.jpg)
-![cmn](Pics/Assembly/assembly-11.jpg)
+<p float="left">
+  <img src="Pics/Assembly/assembly-10.jpg" width="49.5%" />
+  <img src="Pics/Assembly/assembly-11.jpg" width="49.5%" />
+</p>
 
 07 - Cut the Red wire of the Digital Voltmeter to reach a length of 50mm
-![cmn](Pics/Assembly/assembly-12.jpg)
-![cmn](Pics/Assembly/assembly-13.jpg)
-![cmn](Pics/Assembly/assembly-14.jpg)
-![cmn](Pics/Assembly/assembly-15.jpg)
+<p float="left">
+  <img src="Pics/Assembly/assembly-12.jpg" width="49.5%" />
+  <img src="Pics/Assembly/assembly-13.jpg" width="49.5%" />
+  <img src="Pics/Assembly/assembly-14.jpg" width="49.5%" />
+  <img src="Pics/Assembly/assembly-15.jpg" width="49.5%" />
+</p>
 
 08 - Cut the Black wire of the Digital Voltmeter to reach a length of 100mm
-![cmn](Pics/Assembly/assembly-16.jpg)
-![cmn](Pics/Assembly/assembly-17.jpg)
+<p float="left">
+  <img src="Pics/Assembly/assembly-16.jpg" width="49.5%" />
+  <img src="Pics/Assembly/assembly-17.jpg" width="49.5%" />
+</p>
 
 09 - Solder the 60mm Black M-Dupont connector wire and the 50mm Red F-Dupont connector wire to the Mini Push Button, apply Heat Shrink Tube
-![cmn](Pics/Assembly/assembly-18.jpg)
+<p float="left">
+  <img src="Pics/Assembly/assembly-18.jpg" width="49.5%" />
+</p>
 
 10 - Solder the 60mm Red M-Dupont connector wire to the Digital Voltmeter Red wire, apply Heat Shrink Tube
-![cmn](Pics/Assembly/assembly-19.jpg)
-![cmn](Pics/Assembly/assembly-20.jpg)
+<p float="left">
+  <img src="Pics/Assembly/assembly-19.jpg" width="49.5%" />
+  <img src="Pics/Assembly/assembly-20.jpg" width="49.5%" />
+</p>
 
 11 - Solder the 85mm Red F-Dupont connector wire to the M-JST connector Red wire, apply Heat Shrink Tube
-![cmn](Pics/Assembly/assembly-21.jpg)
+<p float="left">
+  <img src="Pics/Assembly/assembly-21.jpg" width="49.5%" />
+</p>
 
 12 - Solder the M-JST connector Black wire to the Digital Voltmeter Black wire, apply Heat Shrink Tube
-![cmn](Pics/Assembly/assembly-22.jpg)
+<p float="left">
+  <img src="Pics/Assembly/assembly-22.jpg" width="49.5%" />
+</p>
 
 13 - Insert the Dupont connectors as depicted
-![cmn](Pics/Assembly/assembly-23.jpg)
-![cmn](Pics/Assembly/assembly-24.jpg)
-![cmn](Pics/Assembly/assembly-25.jpg)
+<p float="left">
+  <img src="Pics/Assembly/assembly-23.jpg" width="49.5%" />
+  <img src="Pics/Assembly/assembly-24.jpg" width="49.5%" />
+  <img src="Pics/Assembly/assembly-25.jpg" width="49.5%" />
+</p>
 
 14 - Insert the Mini Push Button and the Digital Voltmeter to the 3D printed 6_front_holder as depicted, then use a tiny drop of superglue* to secure them in place
-![cmn](Pics/Assembly/assembly-26.jpg)
-![cmn](Pics/Assembly/assembly-27.jpg)
-![cmn](Pics/Assembly/assembly-28.jpg)
-![cmn](Pics/Assembly/assembly-29.jpg)
+<p float="left">
+  <img src="Pics/Assembly/assembly-26.jpg" width="49.5%" />
+  <img src="Pics/Assembly/assembly-27.jpg" width="49.5%" />
+  <img src="Pics/Assembly/assembly-28.jpg" width="49.5%" />
+  <img src="Pics/Assembly/assembly-29.jpg" width="49.5%" />
+</p>
 
 15 - Solder the F-JST connector wires to the UPS board as depicted
-![cmn](Pics/Assembly/assembly-30.jpg)
-![cmn](Pics/Assembly/assembly-31.jpg)
+<p float="left">
+  <img src="Pics/Assembly/assembly-30.jpg" width="49.5%" />
+  <img src="Pics/Assembly/assembly-31.jpg" width="49.5%" />
+</p>
 
 16 - Solder the USB-F Red and Black wires to the UPS board as depicted, again making sure that the USB-F orientation is correct
-![cmn](Pics/Assembly/assembly-32.jpg)
-![cmn](Pics/Assembly/assembly-33.jpg)
-![cmn](Pics/Assembly/assembly-34.jpg)
+<p float="left">
+  <img src="Pics/Assembly/assembly-32.jpg" width="49.5%" />
+  <img src="Pics/Assembly/assembly-33.jpg" width="49.5%" />
+  <img src="Pics/Assembly/assembly-34.jpg" width="49.5%" />
+</p>
 
 17 - Solder the USB-F Red and Black wires to the UPS board as depicted, again making sure that the USB-F orientation is correct
-![cmn](Pics/Assembly/assembly-35.jpg)
-![cmn](Pics/Assembly/assembly-36.jpg)
-![cmn](Pics/Assembly/assembly-37.jpg)
+<p float="left">
+  <img src="Pics/Assembly/assembly-35.jpg" width="49.5%" />
+  <img src="Pics/Assembly/assembly-36.jpg" width="49.5%" />
+  <img src="Pics/Assembly/assembly-37.jpg" width="49.5%" />
+</p>
 
 18 - Solder the USB-F Red and Black wires to the UPS board as depicted, again making sure that the USB-F orientation is correct
-![cmn](Pics/Assembly/assembly-38.jpg)
-![cmn](Pics/Assembly/assembly-39.jpg)
+<p float="left">
+  <img src="Pics/Assembly/assembly-38.jpg" width="49.5%" />
+  <img src="Pics/Assembly/assembly-39.jpg" width="49.5%" />
+</p>
 
 19 - Solder the USB-F Red and Black wires to the UPS board as depicted, again making sure that the USB-F orientation is correct
-![cmn](Pics/Assembly/assembly-40.jpg)
+<p float="left">
+  <img src="Pics/Assembly/assembly-40.jpg" width="49.5%" />
+</p>
 
 ## FAQ
 
