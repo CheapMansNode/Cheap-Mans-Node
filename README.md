@@ -181,6 +181,85 @@ Part specific details:
 Will be available shortly.
 
 
+
+01 - Cut the M-JST connector wires to reach a length of 55mm
+![cmn](Pics/Assembly/assembly-01.jpg)
+![cmn](Pics/Assembly/assembly-02.jpg)
+
+02 - Leave the F-JST connector wires at the length of 105mm (if longer, cut it down to 105mm)
+![cmn](Pics/Assembly/assembly-03.jpg)
+![cmn](Pics/Assembly/assembly-04.jpg)
+
+03 - Solder the Red and Black wires to the USB-F*, apply Heat Shrink Tube then cut the wires to reach a length of 100mm
+![cmn](Pics/Assembly/assembly-05.jpg)
+
+04 - Cut the Red and Black M-Dupont connector wires to reach a length of 60mm
+![cmn](Pics/Assembly/assembly-06.jpg)
+![cmn](Pics/Assembly/assembly-07.jpg)
+
+05 - Cut the Red F-Dupont connector wire to reach a length of 50mm
+![cmn](Pics/Assembly/assembly-08.jpg)
+![cmn](Pics/Assembly/assembly-09.jpg)
+
+06 - Cut another Red F-Dupont connector wire to reach a length of 85mm
+![cmn](Pics/Assembly/assembly-10.jpg)
+![cmn](Pics/Assembly/assembly-11.jpg)
+
+07 - Cut the Red wire of the Digital Voltmeter to reach a length of 50mm
+![cmn](Pics/Assembly/assembly-12.jpg)
+![cmn](Pics/Assembly/assembly-13.jpg)
+![cmn](Pics/Assembly/assembly-14.jpg)
+![cmn](Pics/Assembly/assembly-15.jpg)
+
+08 - Cut the Black wire of the Digital Voltmeter to reach a length of 100mm
+![cmn](Pics/Assembly/assembly-16.jpg)
+![cmn](Pics/Assembly/assembly-17.jpg)
+
+09 - Solder the 60mm Black M-Dupont connector wire and the 50mm Red F-Dupont connector wire to the Mini Push Button, apply Heat Shrink Tube
+![cmn](Pics/Assembly/assembly-18.jpg)
+
+10 - Solder the 60mm Red M-Dupont connector wire to the Digital Voltmeter Red wire, apply Heat Shrink Tube
+![cmn](Pics/Assembly/assembly-19.jpg)
+![cmn](Pics/Assembly/assembly-20.jpg)
+
+11 - Solder the 85mm Red F-Dupont connector wire to the M-JST connector Red wire, apply Heat Shrink Tube
+![cmn](Pics/Assembly/assembly-21.jpg)
+
+12 - Solder the M-JST connector Black wire to the Digital Voltmeter Black wire, apply Heat Shrink Tube
+![cmn](Pics/Assembly/assembly-22.jpg)
+
+13 - Insert the Dupont connectors as depicted
+![cmn](Pics/Assembly/assembly-23.jpg)
+![cmn](Pics/Assembly/assembly-24.jpg)
+![cmn](Pics/Assembly/assembly-25.jpg)
+
+14 - Insert the Mini Push Button and the Digital Voltmeter to the 3D printed 6_front_holder as depicted, then use a tiny drop of superglue* to secure them in place
+![cmn](Pics/Assembly/assembly-26.jpg)
+![cmn](Pics/Assembly/assembly-27.jpg)
+![cmn](Pics/Assembly/assembly-28.jpg)
+![cmn](Pics/Assembly/assembly-29.jpg)
+
+15 - Solder the F-JST connector wires to the UPS board as depicted
+![cmn](Pics/Assembly/assembly-30.jpg)
+![cmn](Pics/Assembly/assembly-31.jpg)
+
+16 - Solder the USB-F Red and Black wires to the UPS board as depicted, again making sure that the USB-F orientation is correct
+![cmn](Pics/Assembly/assembly-32.jpg)
+![cmn](Pics/Assembly/assembly-33.jpg)
+![cmn](Pics/Assembly/assembly-34.jpg)
+
+17 - Solder the USB-F Red and Black wires to the UPS board as depicted, again making sure that the USB-F orientation is correct
+![cmn](Pics/Assembly/assembly-35.jpg)
+![cmn](Pics/Assembly/assembly-36.jpg)
+![cmn](Pics/Assembly/assembly-37.jpg)
+
+18 - Solder the USB-F Red and Black wires to the UPS board as depicted, again making sure that the USB-F orientation is correct
+![cmn](Pics/Assembly/assembly-38.jpg)
+![cmn](Pics/Assembly/assembly-39.jpg)
+
+19 - Solder the USB-F Red and Black wires to the UPS board as depicted, again making sure that the USB-F orientation is correct
+![cmn](Pics/Assembly/assembly-40.jpg)
+
 ## FAQ
 
 * **Why the Raspberry?**
