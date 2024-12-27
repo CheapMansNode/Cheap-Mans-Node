@@ -289,13 +289,13 @@ Part specific details:
   <img src="Pics/Assembly/assembly-37.jpg" width="49.5%" />
 </p>
 
-19 - Vertically slide the 11_back_holder to the 10_enclosure
+19 - Vertically slide the 11_back_holder into the 10_enclosure
 <p float="left">
   <img src="Pics/Assembly/assembly-38.jpg" width="49.5%" />
   <img src="Pics/Assembly/assembly-39.jpg" width="49.5%" />
 </p>
 
-20 - Finally, connect the Raspberry Pi and the UPS with the USB to USB-C cable and connect the UPS with a USB C cable to a 5V charger. Note that, on average, the device will drain slightly more that 1A, so it's reccomended to use a charger that can supply at least 1.5A or 2A
+20 - Finally, connect the Raspberry Pi and the UPS with the USB to USB-C cable and connect the UPS to a 5V charger with a USB-C cable you have around. Note that, on average, the device will drain slightly more than 1A, so it's recommended to use a charger that can supply at least 1.5A or 2A
 <p float="left">
   <img src="Pics/Assembly/assembly-40.jpg" width="49.5%" />
 </p>
