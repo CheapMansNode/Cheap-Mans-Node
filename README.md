@@ -178,19 +178,19 @@ Part specific details:
 
 ## Assembly
 
-01 - 
+01 - Mount the Aluminum Case on the Raspberry Pi and fit 1_top on it
 <p float="left">
   <img src="Pics/Assembly/assembly-01.jpg" width="49.5%" />
   <img src="Pics/Assembly/assembly-02.jpg" width="49.5%" />
 </p>
 
-02 -
+02 - Carefully connect 3_disk_usb_holder and 4_rpi_holder_body together
 <p float="left">
   <img src="Pics/Assembly/assembly-03.jpg" width="49.5%" />
   <img src="Pics/Assembly/assembly-04.jpg" width="49.5%" />
 </p>
 
-03 -
+03 - Fit the pieces together by connecting the hooks
 <p float="left">
   <img src="Pics/Assembly/assembly-05.jpg" width="49.5%" />
 </p>
