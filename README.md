@@ -195,60 +195,60 @@ Part specific details:
   <img src="Pics/Assembly/assembly-05.jpg" width="49.5%" />
 </p>
 
-04 - 
+04 - Fix the 2_disk_usb_top AND 2_disk_usb_bottom components around the female USB socket of the USB 3.0 Extension Cable 
 <p float="left">
   <img src="Pics/Assembly/assembly-06.jpg" width="49.5%" />
   <img src="Pics/Assembly/assembly-07.jpg" width="49.5%" />
 </p>
   
-05 - 
+05 - Insert the two 18650 batteries in the UPS and snap it into the 5_ups_base as shown below. Make sure that the batteries are mounted in parallel
 <p float="left">
   <img src="Pics/Assembly/assembly-08.jpg" width="49.5%" />
   <img src="Pics/Assembly/assembly-09.jpg" width="49.5%" />
 </p>
 
-06 - 
+06 - Slide the 6_front_holder and the Voltmeter previously glued to it into the 5_ups_base
 <p float="left">
   <img src="Pics/Assembly/assembly-10.jpg" width="49.5%" />
   <img src="Pics/Assembly/assembly-11.jpg" width="49.5%" />
 </p>
 
-07 - 
+07 - Slowly and carefully insert at an angle the UPS female USB in the 7_locking component, as demonstrated in the picture
 <p float="left">
   <img src="Pics/Assembly/assembly-12.jpg" width="49.5%" />
   <img src="Pics/Assembly/assembly-13.jpg" width="49.5%" />
 </p>
 
-08 - 
+08 - Gently push the 7_locking part down into the 6_front_holder without putting too much pressure. If you encounter some resistance, slowly scrape the connecting part with sandpaper.
 <p float="left">
   <img src="Pics/Assembly/assembly-14.jpg" width="49.5%" />
   <img src="Pics/Assembly/assembly-15.jpg" width="49.5%" />
 </p>
 
-09 - 
+09 - Pass the Male JST Plug through the appropriate hole in the 5_ups_base component, then connect it to the Female JST Plug on the UPS
 <p float="left">
   <img src="Pics/Assembly/assembly-16.jpg" width="49.5%" />
   <img src="Pics/Assembly/assembly-17.jpg" width="49.5%" />
 </p>
 
-10 - 
+10 - Test the Voltmeter by pressing the button. If everything is done correctly, it will show you the voltage of the batteries
 <p float="left">
   <img src="Pics/Assembly/assembly-18.jpg" width="49.5%" />
 </p>
 
-11 - 
+11 - Place the Voltmeter cable in the 9_ups_cable_holder, then fit it to the 5_ups_base by connecting the hooks
 <p float="left">
   <img src="Pics/Assembly/assembly-19.jpg" width="49.5%" />
   <img src="Pics/Assembly/assembly-20.jpg" width="49.5%" />
 </p>
 
-12 -
+12 - Vertically snap the 8_ups_box to the 5_ups_base and the 2_disk_usb to the 4_rpi_holder_body
 <p float="left">
   <img src="Pics/Assembly/assembly-21.jpg" width="49.5%" />
   <img src="Pics/Assembly/assembly-22.jpg" width="49.5%" />
 </p>
 
-13 - 
+13 - Moving on to the 10_enclosure, let's start by supergluing the 4x 13_box_foot to it
 <p float="left">
   <img src="Pics/Assembly/assembly-23.jpg" width="49.5%" />
 </p>
@@ -257,7 +257,7 @@ Part specific details:
   <img src="Pics/Assembly/assembly-25.jpg" width="49.5%" />
 </p>
 
-14 -
+14 - Slide the Raspberry Pi and the 3D printed components attached to it 9/10th of the way in the 10_enclosure rails. Carefully push the male USB of the USB 3.0 Extension Cable through the appropriate opening, rotating it 90 degrees and inserting it from top to bottom. Once done, push it all the way in and insert the male USB into the Raspberry Pi
 <p float="left">
   <img src="Pics/Assembly/assembly-26.jpg" width="49.5%" />
   <img src="Pics/Assembly/assembly-27.jpg" width="49.5%" />
@@ -265,37 +265,37 @@ Part specific details:
   <img src="Pics/Assembly/assembly-29.jpg" width="49.5%" />
 </p>
 
-15 - 
+15 - Slide the 5_ups_base and all of the components attached to it all the way in the 10_enclosure rails, gently pushing the voltmeter and the voltmeter button through the appropriate openings
 <p float="left">
   <img src="Pics/Assembly/assembly-30.jpg" width="49.5%" />
   <img src="Pics/Assembly/assembly-31.jpg" width="49.5%" />
 </p>
 
-16 -
+16 - Connect the Sabrent adapter to the SSD, then tie the cable as shown in the picture and slide it all the way in the 10_enclosure rails
 <p float="left">
   <img src="Pics/Assembly/assembly-32.jpg" width="49.5%" />
   <img src="Pics/Assembly/assembly-33.jpg" width="49.5%" />
 </p>
 
-17 - 
+17 - Connect the male USB of the Sabrent adapter to the female USB of the Extension Cable, then slide the 12_part_holder component in the 10_enclosure rails
 <p float="left">
   <img src="Pics/Assembly/assembly-34.jpg" width="49.5%" />
   <img src="Pics/Assembly/assembly-35.jpg" width="49.5%" />
 </p>
 
-18 -
+18 - To keep the device tightly closed, use two well-stretched elastic bands mounted in an X shape, as shown in the photo
 <p float="left">
   <img src="Pics/Assembly/assembly-36.jpg" width="49.5%" />
   <img src="Pics/Assembly/assembly-37.jpg" width="49.5%" />
 </p>
 
-19 - 
+19 - Vertically slide the 11_back_holder to the 10_enclosure
 <p float="left">
   <img src="Pics/Assembly/assembly-38.jpg" width="49.5%" />
   <img src="Pics/Assembly/assembly-39.jpg" width="49.5%" />
 </p>
 
-20 - 
+20 - Finally, connect the Raspberry Pi and the UPS with the USB to USB-C cable and connect the UPS with a USB C cable to a 5V charger. Note that, on average, the device will drain slightly more that 1A, so it's reccomended to use a charger that can supply at least 1.5A or 2A
 <p float="left">
   <img src="Pics/Assembly/assembly-40.jpg" width="49.5%" />
 </p>
